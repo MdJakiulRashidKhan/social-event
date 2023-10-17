@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Weddings",
+      "image": "https://i.ibb.co/Jr72dkN/weading1.jpg",
+      "price": "$5000",
+      "description": "Plan your dream wedding with our expert wedding planners. We provide comprehensive wedding planning services, ensuring every detail is perfect. From venue selection to catering and decor, we handle it all to make your special day unforgettable.",
+      "short_details": "Create the wedding of your dreams with our expert planners. We handle every detail, from venue selection to decor, to make your day unforgettable.",
+      "button_text": "Plan Your Wedding"
+    },
+    {
+      "id": 2,
+      "name": "Birthday Parties",
+      "image": "https://i.ibb.co/k02C5Wj/Birthday-Parties.jpg",
+      "price": "$1500",
+      "description": "Celebrate your birthday in style! Our party planning experts organize fun and memorable birthday parties for all ages. From theme selection to entertainment and cakes, we create joyful experiences for everyone.",
+      "short_details": "Host a memorable birthday party with our expert planners. We handle everything from themes to entertainment, ensuring a fun-filled celebration.",
+      "button_text": "Book Your Party"
+    },
+    {
+      "id": 3,
+      "name": "Anniversaries",
+      "image": "https://i.ibb.co/hWn0dqG/Anniversaries.jpg",
+      "price": "$2000",
+      "description": "Commemorate your love story with a beautiful anniversary celebration. Our experienced team plans romantic and intimate anniversary events. From venue decor to gourmet dining, we craft moments to cherish forever.",
+      "short_details": "Celebrate your love story with a romantic anniversary event. Our team plans every detail, creating moments you'll cherish forever.",
+      "button_text": "Plan Your Anniversary"
+    },
+    {
+      "id": 4,
+      "name": "Engagement Parties",
+      "image": "https://i.ibb.co/cLNvdkm/Engagement-Parties.jpg",
+      "price": "$500",
+      "description": "Start your journey to forever with a perfect engagement party. Our planners create delightful and elegant events that set the stage for your upcoming wedding. From invitations to toasts, we make it magical.",
+      "short_details": "Begin your journey to forever with a perfect engagement party. Our planners create magical events, from invitations to toasts, setting the stage for your wedding.",
+      "button_text": "Start Your Journey"
+    },
+    {
+      "id": 5,
+      "name": "Retirement Parties",
+      "image": "https://i.ibb.co/jJ58mgM/istockphoto-882101238-2048x2048.jpg",
+      "price": "$1500",
+      "description": "Celebrate a fulfilling career with a memorable retirement party. Our planners organize elegant events to honor the retiree's achievements. From speeches to decor, we ensure a grand farewell.",
+      "short_details": "Honor a fulfilling career with a grand retirement party. Our planners handle every detail, from speeches to decor, ensuring a memorable farewell.",
+      "button_text": "Plan Retirement Party"
+    },
+    {
+      "id": 6,
+      "name": "Baby Shower",
+      "image": "https://i.ibb.co/hfY3b56/istockphoto-1191646713-2048x2048.jpg",
+      "price": "$300",
+      "description": "Welcome your little one with a heartwarming baby shower. Our planners create adorable and joyous baby showers. From decorations to games, we make the event a delightful experience for all.",
+      "short_details": "Celebrate the arrival of your little one with a joyous baby shower. Our planners create adorable events, from decorations to games, making it a delightful experience.",
+      "button_text": "Celebrate Baby Arrival"
+    }
+  ]
+  
